@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 
+using namespace 123;
 using namespace std;
 
 class Departaments {
